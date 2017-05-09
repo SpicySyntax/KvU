@@ -1,0 +1,239 @@
+[
+    {
+        "outputFile": "C:\\Users\\nickp\\Desktop\\542\\VR_POC\\KvU\\samples\\SpeechRecoExample\\build\\intermediates\\incremental\\mergeArmDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\nickp\\Desktop\\542\\VR_POC\\KvU\\samples\\SpeechRecoExample\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\nickp\\Desktop\\542\\VR_POC\\KvU\\samples\\SpeechRecoExample\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "C:\\Users\\nickp\\Desktop\\542\\VR_POC\\KvU\\samples\\SpeechRecoExample\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1090,
+                        "endColumn": 52,
+                        "endOffset": 1138
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 157,
+                    "endOffset": 375
+                },
+                "from": {
+                    "file": "C:\\Users\\nickp\\Desktop\\542\\VR_POC\\KvU\\samples\\SpeechRecoExample\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 509,
+                        "endColumn": 157,
+                        "endOffset": 662
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 380,
+                    "endColumn": 85,
+                    "endOffset": 461
+                },
+                "from": {
+                    "file": "C:\\Users\\nickp\\Desktop\\542\\VR_POC\\KvU\\samples\\SpeechRecoExample\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 423,
+                        "endColumn": 85,
+                        "endOffset": 504
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 466,
+                    "endColumn": 77,
+                    "endOffset": 539
+                },
+                "from": {
+                    "file": "C:\\Users\\nickp\\Desktop\\542\\VR_POC\\KvU\\samples\\SpeechRecoExample\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1012,
+                        "endColumn": 77,
+                        "endOffset": 1085
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 544,
+                    "endColumn": 38,
+                    "endOffset": 578
+                },
+                "from": {
+                    "file": "C:\\Users\\nickp\\Desktop\\542\\VR_POC\\KvU\\samples\\SpeechRecoExample\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 804,
+                        "endColumn": 46,
+                        "endOffset": 846
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 583,
+                    "endColumn": 74,
+                    "endOffset": 653
+                },
+                "from": {
+                    "file": "C:\\Users\\nickp\\Desktop\\542\\VR_POC\\KvU\\samples\\SpeechRecoExample\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 856,
+                        "endColumn": 74,
+                        "endOffset": 926
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 658,
+                    "endColumn": 79,
+                    "endOffset": 733
+                },
+                "from": {
+                    "file": "C:\\Users\\nickp\\Desktop\\542\\VR_POC\\KvU\\samples\\SpeechRecoExample\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 931,
+                        "endColumn": 79,
+                        "endOffset": 1006
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 738,
+                    "endColumn": 71,
+                    "endOffset": 805
+                },
+                "from": {
+                    "file": "C:\\Users\\nickp\\Desktop\\542\\VR_POC\\KvU\\samples\\SpeechRecoExample\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 351,
+                        "endColumn": 71,
+                        "endOffset": 418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 810,
+                    "endLine": 18,
+                    "endColumn": 12,
+                    "endOffset": 1096
+                },
+                "from": {
+                    "file": "C:\\Users\\nickp\\Desktop\\542\\VR_POC\\KvU\\samples\\SpeechRecoExample\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1101,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 1256
+                },
+                "from": {
+                    "file": "C:\\Users\\nickp\\Desktop\\542\\VR_POC\\KvU\\samples\\SpeechRecoExample\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]
