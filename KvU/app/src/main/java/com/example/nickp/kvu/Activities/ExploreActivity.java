@@ -9,7 +9,10 @@ import android.support.v4.app.ActivityCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.View;
+import android.widget.AdapterView;
+import android.widget.ArrayAdapter;
 import android.widget.SeekBar;
+import android.widget.Spinner;
 import android.widget.TextView;
 import com.example.nickp.kvu.AsyncTasks.DownloadPanoramaTask;
 import com.example.nickp.kvu.AsyncTasks.DownloadVideoTask;
@@ -55,6 +58,7 @@ public class ExploreActivity extends
     private Context context;
     private boolean isFirstTime;
     private TextView firstTimeTextView;
+    private Spinner nextPointsSpinner;
     MicrophoneRecognitionClient micClient = null;
     FinalResponseStatus isReceivedResponse = FinalResponseStatus.NotReceived;
     public enum FinalResponseStatus { NotReceived, OK, Timeout }
@@ -112,20 +116,64 @@ public class ExploreActivity extends
         mVrVideoView = (VrVideoView) findViewById(R.id.video_view);
 
         mSeekBar = (SeekBar) findViewById(R.id.seek_bar);
+        nextPointsSpinner = (Spinner) findViewById(R.id.nxt_pts_spinner);
         if(isImg){
             mVrVideoView.setVisibility(View.GONE);
             mSeekBar.setVisibility(View.GONE);
             mVrPanoramaView = (VrPanoramaView) findViewById(R.id.pano_view);
             mVrPanoramaView.setEventListener(new PanoActivityEventListenter(this));
+            initSpinner();
+
 
         }else{
             mVrPanoramaView = (VrPanoramaView) findViewById(R.id.pano_view);
             mVrPanoramaView.setVisibility(View.GONE);
             mVrVideoView.setEventListener(new VidActivityEventListener());
-
+            nextPointsSpinner.setVisibility(View.GONE);
 
         }
 
+    }
+    private void initSpinner(){
+        //mVrPanoramaView.setVisibility(View.GONE);
+        ArrayList<String> usrNextPoints = null;
+        usrNextPoints = new ArrayList<String>();
+        usrNextPoints.add("Next Places:");
+        for(Point.NextPoint p : nextPoints){
+            usrNextPoints.add(p.overlayName);
+        }
+        if(usrNextPoints != null){
+            ArrayAdapter<String> adapter = new ArrayAdapter<String>(this, android.R.layout.simple_spinner_item,usrNextPoints);
+            adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
+            nextPointsSpinner.setAdapter(adapter);
+
+        }
+        nextPointsSpinner.bringToFront();
+        nextPointsSpinner.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
+            @Override
+            public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
+                String selected = parent.getItemAtPosition(position).toString();
+                if(selected.equals("Next Places:")){
+                    return;
+                }else{
+                    SwitchToVideoViewTask switchViewTask =
+                            new SwitchToVideoViewTask(activity.getApplicationContext(),activity,mPoint);
+                    String pointName = "";
+                    for(Point.NextPoint point: nextPoints){
+                        if(point.overlayName == selected){
+                            pointName = point.pointName;
+                        }
+                    }
+                    switchViewTask.execute(pointName);
+                    //this.micClient.endMicAndRecognition();
+                }
+            }
+
+            @Override
+            public void onNothingSelected(AdapterView<?> parent) {
+
+            }
+        });
     }
     private void initTasks(){
         if(isImg){

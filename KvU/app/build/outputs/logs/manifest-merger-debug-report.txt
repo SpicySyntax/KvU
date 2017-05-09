@@ -177,7 +177,6 @@ ADDED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xm
 		ADDED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml:49:13-55
 uses-sdk
 INJECTED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:multidex:1.0.1] C:\Users\nickp\.android\build-cache\be41c5e6cbc6fb1ed514a28fda6e76c67cc1f21d\output\AndroidManifest.xml:18:5-42
 MERGED from [KvU:common:unspecified] C:\Users\nickp\.android\build-cache\7d4753f0004d78e543757d218de54154f37adcb9\output\AndroidManifest.xml:3:5-73
 MERGED from [KvU:commonwidget:unspecified] C:\Users\nickp\.android\build-cache\05b6c640f87d31701ac43df0422b963599b63eb6\output\AndroidManifest.xml:3:5-73
 MERGED from [KvU:videowidget:unspecified] C:\Users\nickp\.android\build-cache\717b10b95b45626a1ea14b16759c83713930b17e\output\AndroidManifest.xml:3:5-73

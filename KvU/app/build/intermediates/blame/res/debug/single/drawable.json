@@ -40,12 +40,12 @@
         "source": "C:\\Users\\nickp\\.android\\build-cache\\6c1ce277c9b6d20564208ead18dc0859dc95d41f\\output\\res\\drawable\\cast_mini_controller_gradient_light.xml"
     },
     {
-        "merged": "C:\\Users\\nickp\\Desktop\\542\\VR_POC\\KvU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_closed_caption.xml",
-        "source": "C:\\Users\\nickp\\.android\\build-cache\\6c1ce277c9b6d20564208ead18dc0859dc95d41f\\output\\res\\drawable\\cast_ic_expanded_controller_closed_caption.xml"
-    },
-    {
         "merged": "C:\\Users\\nickp\\Desktop\\542\\VR_POC\\KvU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
         "source": "C:\\Users\\nickp\\.android\\build-cache\\9ba95fc1f9589f1c5ddb5b9a79c955b4f82571b2\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\nickp\\Desktop\\542\\VR_POC\\KvU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_closed_caption.xml",
+        "source": "C:\\Users\\nickp\\.android\\build-cache\\6c1ce277c9b6d20564208ead18dc0859dc95d41f\\output\\res\\drawable\\cast_ic_expanded_controller_closed_caption.xml"
     },
     {
         "merged": "C:\\Users\\nickp\\Desktop\\542\\VR_POC\\KvU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_pause.xml",
@@ -108,12 +108,12 @@
         "source": "C:\\Users\\nickp\\.android\\build-cache\\c5f061b3a86dbf122a05ddd9572947e67b45c3e2\\output\\res\\drawable\\mr_ic_pause_light.xml"
     },
     {
-        "merged": "C:\\Users\\nickp\\Desktop\\542\\VR_POC\\KvU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind30.xml",
-        "source": "C:\\Users\\nickp\\.android\\build-cache\\6c1ce277c9b6d20564208ead18dc0859dc95d41f\\output\\res\\drawable\\cast_ic_notification_rewind30.xml"
-    },
-    {
         "merged": "C:\\Users\\nickp\\Desktop\\542\\VR_POC\\KvU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
         "source": "C:\\Users\\nickp\\.android\\build-cache\\f860c0bb5a81887b2d072aea199ebe4fe1b549bd\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\nickp\\Desktop\\542\\VR_POC\\KvU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind30.xml",
+        "source": "C:\\Users\\nickp\\.android\\build-cache\\6c1ce277c9b6d20564208ead18dc0859dc95d41f\\output\\res\\drawable\\cast_ic_notification_rewind30.xml"
     },
     {
         "merged": "C:\\Users\\nickp\\Desktop\\542\\VR_POC\\KvU\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",

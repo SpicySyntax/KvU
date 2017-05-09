@@ -1,4 +1,4 @@
-#Tue May 02 15:24:56 CDT 2017
+#Tue May 09 13:14:25 CDT 2017
 base.0=C\:\\Users\\nickp\\Desktop\\542\\VR_POC\\KvU\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d428c9136198ebc06e7720583330e8902ba0489b
 renamed.1=classes2.dex
 renamed.0=classes.dex

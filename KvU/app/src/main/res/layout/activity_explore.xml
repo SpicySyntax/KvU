@@ -4,7 +4,11 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:keepScreenOn="true">
-
+    <Spinner
+        android:id="@+id/nxt_pts_spinner"
+        android:layout_width="fill_parent"
+        android:background="@color/white_transparent"
+        android:layout_height="wrap_content" />
     <com.google.vr.sdk.widgets.video.VrVideoView
         android:id="@+id/video_view"
         android:layout_width="match_parent"

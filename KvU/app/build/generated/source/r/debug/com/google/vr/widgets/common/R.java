@@ -17,11 +17,11 @@ public final class R {
         public static final int quantum_ic_info_white_24 = 0x7f020158;
     }
     public static final class id {
-        public static final int control_layout = 0x7f0e0111;
-        public static final int fullscreen_back_button = 0x7f0e010f;
-        public static final int fullscreen_button = 0x7f0e0113;
-        public static final int info_button = 0x7f0e0110;
-        public static final int vr_mode_button = 0x7f0e0112;
+        public static final int control_layout = 0x7f0e0112;
+        public static final int fullscreen_back_button = 0x7f0e0110;
+        public static final int fullscreen_button = 0x7f0e0114;
+        public static final int info_button = 0x7f0e0111;
+        public static final int vr_mode_button = 0x7f0e0113;
         public static final int vrwidget_inner_view = 0x7f0e0017;
     }
     public static final class layout {

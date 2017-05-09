@@ -104,12 +104,12 @@
         "source": "C:\\Users\\nickp\\.android\\build-cache\\6c1ce277c9b6d20564208ead18dc0859dc95d41f\\output\\res\\drawable-xxxhdpi-v4\\quantum_ic_play_arrow_grey600_48.png"
     },
     {
-        "merged": "C:\\Users\\nickp\\Desktop\\542\\VR_POC\\KvU\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\quantum_ic_forward_10_white_24.png",
-        "source": "C:\\Users\\nickp\\.android\\build-cache\\6c1ce277c9b6d20564208ead18dc0859dc95d41f\\output\\res\\drawable-xxxhdpi-v4\\quantum_ic_forward_10_white_24.png"
-    },
-    {
         "merged": "C:\\Users\\nickp\\Desktop\\542\\VR_POC\\KvU\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\quantum_ic_skip_previous_white_36.png",
         "source": "C:\\Users\\nickp\\.android\\build-cache\\6c1ce277c9b6d20564208ead18dc0859dc95d41f\\output\\res\\drawable-xxxhdpi-v4\\quantum_ic_skip_previous_white_36.png"
+    },
+    {
+        "merged": "C:\\Users\\nickp\\Desktop\\542\\VR_POC\\KvU\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\quantum_ic_forward_10_white_24.png",
+        "source": "C:\\Users\\nickp\\.android\\build-cache\\6c1ce277c9b6d20564208ead18dc0859dc95d41f\\output\\res\\drawable-xxxhdpi-v4\\quantum_ic_forward_10_white_24.png"
     },
     {
         "merged": "C:\\Users\\nickp\\Desktop\\542\\VR_POC\\KvU\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\quantum_ic_stop_grey600_48.png",

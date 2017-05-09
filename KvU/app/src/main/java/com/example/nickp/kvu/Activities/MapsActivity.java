@@ -6,8 +6,9 @@ import android.support.v4.app.FragmentActivity;
 import android.os.Bundle;
 
 import com.example.nickp.kvu.CustomClasses.EntryPointMarker;
-import com.example.nickp.kvu.R;
 import com.example.nickp.kvu.Helpers.UserLvlNameResolver;
+import com.example.nickp.kvu.R;
+
 import com.example.nickp.kvu.Helpers.LocationResolver;
 import com.example.nickp.kvu.ServerObjects.Point;
 import com.google.android.gms.maps.CameraUpdateFactory;

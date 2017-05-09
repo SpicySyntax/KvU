@@ -1,6 +1,6 @@
 package com.example.nickp.kvu.ServerObjects;
 
-import com.example.nickp.kvu.Helpers.UserLvlNameResolver;
+
 
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -57,12 +57,7 @@ public class Point {
                 +", \"lon\" : "+lon+", \"nextPts\" : "+nextPts+", \"entry\" : "+entry+"}";
         return ret;
     }
-    public String getUsrLvlString(){
-        String ret = "";
-        UserLvlNameResolver nameResolver = new UserLvlNameResolver();
-        ret = nameResolver.resolveUserLvlString(this.ptName);
-        return ret;
-    }
+
     public ArrayList<NextPoint> getNextPointsArrayList(){
         ArrayList<NextPoint> ret = null;
         JSONObject obj = null;
