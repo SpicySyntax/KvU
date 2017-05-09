@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\nickp\\Desktop\\542\\VR_POC\\KvU\\app\\build\\intermediates\\incremental\\mergeArmDebugResources\\merged.dir\\values-v19\\values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 60,
+                    "endOffset": 111
+                },
+                "from": {
+                    "file": "C:\\Users\\nickp\\.android\\build-cache\\7d4753f0004d78e543757d218de54154f37adcb9\\output\\res\\values-v19\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 148,
+                        "endColumn": 56,
+                        "endOffset": 204
+                    }
+                }
+            }
+        ]
+    }
+]

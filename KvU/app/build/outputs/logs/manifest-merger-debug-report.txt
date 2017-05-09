@@ -1,0 +1,485 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml:2:1-55:12
+	package
+		ADDED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [com.microsoft.projectoxford:speechrecognition:1.1.0] C:\Users\nickp\.android\build-cache\233f28af9a1846f2dc38a5f3a1fff5b9d30e5da4\output\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\nickp\.android\build-cache\6d6789f0d57dead877a8c0cdccd40c9cfcfaba5d\output\AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\nickp\.android\build-cache\8bc4afdbcb2abea2776239fd3650a3f70903c5df\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\nickp\.android\build-cache\561e1ee92ea510cbf4176cb92af4a0df3c76ab35\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:10.0.1] C:\Users\nickp\.android\build-cache\acc1e197eb86db8c0223edc0548bed04e0342c81\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Users\nickp\.android\build-cache\b575eca3ada082f4436c3319a16b4f7d20b367dc\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] C:\Users\nickp\.android\build-cache\0cc49f200a056bb265af77fd13539dafeb67d5b7\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\nickp\.android\build-cache\6aebc05032f52c3a20c6678159c47fac66abcb51\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\nickp\.android\build-cache\5ff0442c60936394ba9f97cc95a012caf438790d\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\nickp\.android\build-cache\24054bacb761dd1ca80f989c7c947deb79717c94\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nickp\.android\build-cache\34476061d710a40bbb05683ecb5fb7111dcc1c4f\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\nickp\.android\build-cache\b7be9034743cee8d207dbea9d965cdd6b4888bf6\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\nickp\.android\build-cache\3cf57e5cf4bbf4f50f3506572fac7a476ec1cf7e\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml:7:5-70
+MERGED from [com.microsoft.projectoxford:speechrecognition:1.1.0] C:\Users\nickp\.android\build-cache\233f28af9a1846f2dc38a5f3a1fff5b9d30e5da4\output\AndroidManifest.xml:12:5-71
+	android:name
+		ADDED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml:8:5-98
+	android:name
+		ADDED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml:8:22-95
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml:9:5-81
+MERGED from [com.microsoft.projectoxford:speechrecognition:1.1.0] C:\Users\nickp\.android\build-cache\233f28af9a1846f2dc38a5f3a1fff5b9d30e5da4\output\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml:10:5-86
+MERGED from [com.microsoft.projectoxford:speechrecognition:1.1.0] C:\Users\nickp\.android\build-cache\233f28af9a1846f2dc38a5f3a1fff5b9d30e5da4\output\AndroidManifest.xml:13:5-86
+	android:name
+		ADDED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml:10:22-83
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml:11:5-76
+MERGED from [com.microsoft.projectoxford:speechrecognition:1.1.0] C:\Users\nickp\.android\build-cache\233f28af9a1846f2dc38a5f3a1fff5b9d30e5da4\output\AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml:11:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml:12:5-79
+MERGED from [com.microsoft.projectoxford:speechrecognition:1.1.0] C:\Users\nickp\.android\build-cache\233f28af9a1846f2dc38a5f3a1fff5b9d30e5da4\output\AndroidManifest.xml:15:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\nickp\.android\build-cache\6d6789f0d57dead877a8c0cdccd40c9cfcfaba5d\output\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\nickp\.android\build-cache\8bc4afdbcb2abea2776239fd3650a3f70903c5df\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:10.0.1] C:\Users\nickp\.android\build-cache\0461284dbdd0db3271a6a0edd1f49b8aa912a6d7\output\AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\nickp\.android\build-cache\6aebc05032f52c3a20c6678159c47fac66abcb51\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\nickp\.android\build-cache\5ff0442c60936394ba9f97cc95a012caf438790d\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\nickp\.android\build-cache\24054bacb761dd1ca80f989c7c947deb79717c94\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nickp\.android\build-cache\34476061d710a40bbb05683ecb5fb7111dcc1c4f\output\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\nickp\.android\build-cache\b7be9034743cee8d207dbea9d965cdd6b4888bf6\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\nickp\.android\build-cache\3cf57e5cf4bbf4f50f3506572fac7a476ec1cf7e\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml:13:5-74
+MERGED from [com.microsoft.projectoxford:speechrecognition:1.1.0] C:\Users\nickp\.android\build-cache\233f28af9a1846f2dc38a5f3a1fff5b9d30e5da4\output\AndroidManifest.xml:17:5-75
+	android:name
+		ADDED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml:13:22-72
+application
+ADDED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml:16:5-53:19
+MERGED from [com.google.android.gms:play-services:10.0.1] C:\Users\nickp\.android\build-cache\b3ec677345c885a1471d06cc204927e48096a9d6\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\nickp\.android\build-cache\6d6789f0d57dead877a8c0cdccd40c9cfcfaba5d\output\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\nickp\.android\build-cache\8bc4afdbcb2abea2776239fd3650a3f70903c5df\output\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\nickp\.android\build-cache\561e1ee92ea510cbf4176cb92af4a0df3c76ab35\output\AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\nickp\.android\build-cache\2cf3eaab2302e96fc05441df4b2d6a2551fc5d8c\output\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\nickp\.android\build-cache\6c1ce277c9b6d20564208ead18dc0859dc95d41f\output\AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:10.0.1] C:\Users\nickp\.android\build-cache\5be0b52348924030f8972981df9ccff765991863\output\AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\nickp\.android\build-cache\c5f061b3a86dbf122a05ddd9572947e67b45c3e2\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\nickp\.android\build-cache\94bd7311182a3c602f242b0cd9f14e1d8ff53ffc\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:appcompat-v7:24.0.0] C:\Users\nickp\.android\build-cache\f860c0bb5a81887b2d072aea199ebe4fe1b549bd\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] C:\Users\nickp\.android\build-cache\12a46341c0472808fe527c84887a351f0db2492f\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0] C:\Users\nickp\.android\build-cache\c7933a3137edab29f9a317a45e9b9382597b923d\output\AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] C:\Users\nickp\.android\build-cache\6c289ec402975253bcded0bb494dc8603fc2c296\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:10.0.1] C:\Users\nickp\.android\build-cache\4b09280c9d4222d3cc82e30fe1615b86f7ba62de\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:10.0.1] C:\Users\nickp\.android\build-cache\5a12e8d643f23bf7749cf5618112f1eff471f074\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:10.0.1] C:\Users\nickp\.android\build-cache\acc1e197eb86db8c0223edc0548bed04e0342c81\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth:10.0.1] C:\Users\nickp\.android\build-cache\47f57354ef7a623be2b067f06a811eb74a04a353\output\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\nickp\.android\build-cache\dc7067ab681944946cff32124fdde6bb6e218fd6\output\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-fitness:10.0.1] C:\Users\nickp\.android\build-cache\f9131bf29ce1c129a5dc8fc627d374bb1b03993e\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:10.0.1] C:\Users\nickp\.android\build-cache\3147251451b913f1c05551e19b006495885410f6\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:10.0.1] C:\Users\nickp\.android\build-cache\7f5c713f80c3a0b34dfd194d694e8ddf8f6fdb6c\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] C:\Users\nickp\.android\build-cache\268b88ccf88d177fcb845f3be6f834d7d32d6d9c\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Users\nickp\.android\build-cache\b575eca3ada082f4436c3319a16b4f7d20b367dc\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-appindexing:10.0.1] C:\Users\nickp\.android\build-cache\45b30269d2c12d453886daede9c025dc409d7863\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] C:\Users\nickp\.android\build-cache\0cc49f200a056bb265af77fd13539dafeb67d5b7\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:10.0.1] C:\Users\nickp\.android\build-cache\b49c5f05e1426c786f742a65828d377d473f64e9\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-nearby:10.0.1] C:\Users\nickp\.android\build-cache\0461284dbdd0db3271a6a0edd1f49b8aa912a6d7\output\AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:10.0.1] C:\Users\nickp\.android\build-cache\cacda35fe44d1cb63e418afe4e4c674ff0784130\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:10.0.1] C:\Users\nickp\.android\build-cache\3d0b59b550735a96cf10578c588d9826f25cf3df\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:10.0.1] C:\Users\nickp\.android\build-cache\e078185297cd4050a2d6d4c0043781a8da261911\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:10.0.1] C:\Users\nickp\.android\build-cache\87c98d852b21a50ff90ae17cc259d194aaf2b8b6\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\nickp\.android\build-cache\6aebc05032f52c3a20c6678159c47fac66abcb51\output\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\nickp\.android\build-cache\5ff0442c60936394ba9f97cc95a012caf438790d\output\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\nickp\.android\build-cache\24054bacb761dd1ca80f989c7c947deb79717c94\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nickp\.android\build-cache\34476061d710a40bbb05683ecb5fb7111dcc1c4f\output\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\nickp\.android\build-cache\741b9e05831ca797b6d03c7b69358462b0fe1338\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.0.1] C:\Users\nickp\.android\build-cache\741ba6a0ebf6ad82d9372ed0a8aff5f2c4c9f8d4\output\AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\nickp\.android\build-cache\b7be9034743cee8d207dbea9d965cdd6b4888bf6\output\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-vision:10.0.1] C:\Users\nickp\.android\build-cache\c83513fd5ad54e53d9f3214934d8d100b5481dcb\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-identity:10.0.1] C:\Users\nickp\.android\build-cache\8fdb7b1ff677e6dcc67003ec4b648e8b225dc608\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\nickp\.android\build-cache\3cf57e5cf4bbf4f50f3506572fac7a476ec1cf7e\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-wearable:10.0.1] C:\Users\nickp\.android\build-cache\c194af829d1961414aef248808055474f3cfd85c\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\nickp\.android\build-cache\d53b498fabe2f1c0a44c4b4cd716a947021c603d\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\nickp\.android\build-cache\988a5706b46ab37d98f5cd9124d0ced79da8d1b0\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\nickp\.android\build-cache\2fb2ebadba84ab66621cb6626a34767c88304e4e\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\nickp\.android\build-cache\4972e1d916efab7cabedb8c6c631220bc010bea4\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:cardview-v7:24.0.0] C:\Users\nickp\.android\build-cache\befd7fa50a73fb4758240d2c7023f2868eaaf87d\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\nickp\.android\build-cache\511bb482df9f262dc16209ec32498703144f005b\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml:20:9-41
+	android:supportsRtl
+		ADDED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml:21:9-35
+	android:hardwareAccelerated
+		ADDED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml:24:9-44
+	android:allowBackup
+		ADDED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml:17:9-35
+	android:icon
+		ADDED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml:18:9-43
+	android:largeHeap
+		ADDED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml:23:9-33
+	android:theme
+		ADDED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml:22:9-40
+activity#com.example.nickp.kvu.Activities.MainMenuActivity
+ADDED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml:26:9-32:20
+	android:name
+		ADDED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml:26:19-62
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml:30:27-74
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml:41:9-43:55
+	android:value
+		ADDED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml:43:13-52
+	android:name
+		ADDED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml:42:13-58
+activity#com.example.nickp.kvu.Activities.MapsActivity
+ADDED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml:45:9-47:59
+	android:label
+		ADDED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml:47:13-56
+	android:name
+		ADDED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml:46:13-52
+activity#com.example.nickp.kvu.Activities.ExploreActivity
+ADDED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml:48:9-51:59
+	android:label
+		ADDED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml:50:13-59
+	android:theme
+		ADDED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml:51:13-56
+	android:name
+		ADDED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml:49:13-55
+uses-sdk
+INJECTED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\nickp\.android\build-cache\be41c5e6cbc6fb1ed514a28fda6e76c67cc1f21d\output\AndroidManifest.xml:18:5-42
+MERGED from [KvU:common:unspecified] C:\Users\nickp\.android\build-cache\7d4753f0004d78e543757d218de54154f37adcb9\output\AndroidManifest.xml:3:5-73
+MERGED from [KvU:commonwidget:unspecified] C:\Users\nickp\.android\build-cache\05b6c640f87d31701ac43df0422b963599b63eb6\output\AndroidManifest.xml:3:5-73
+MERGED from [KvU:videowidget:unspecified] C:\Users\nickp\.android\build-cache\717b10b95b45626a1ea14b16759c83713930b17e\output\AndroidManifest.xml:3:5-73
+MERGED from [KvU:panowidget:unspecified] C:\Users\nickp\.android\build-cache\60aef25ae3ad37363e66cd8c0fcd9ba3474e260f\output\AndroidManifest.xml:3:5-73
+MERGED from [com.microsoft.projectoxford:speechrecognition:1.1.0] C:\Users\nickp\.android\build-cache\233f28af9a1846f2dc38a5f3a1fff5b9d30e5da4\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.exoplayer:exoplayer:r1.5.10] C:\Users\nickp\.android\build-cache\2b8a0c31b0b3033984fcbc4f01f5752f0abeed16\output\AndroidManifest.xml:24:5-26:41
+MERGED from [com.google.android.gms:play-services:10.0.1] C:\Users\nickp\.android\build-cache\b3ec677345c885a1471d06cc204927e48096a9d6\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-ads:10.0.1] C:\Users\nickp\.android\build-cache\46c680b54a25cc68721479746c679bb0ae0e9c25\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\nickp\.android\build-cache\6d6789f0d57dead877a8c0cdccd40c9cfcfaba5d\output\AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\nickp\.android\build-cache\8bc4afdbcb2abea2776239fd3650a3f70903c5df\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\nickp\.android\build-cache\561e1ee92ea510cbf4176cb92af4a0df3c76ab35\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\nickp\.android\build-cache\2cf3eaab2302e96fc05441df4b2d6a2551fc5d8c\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth-base:10.0.1] C:\Users\nickp\.android\build-cache\4474938dc1bd9660eeb889c9bbeabe5f2fbb2d33\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\nickp\.android\build-cache\6c1ce277c9b6d20564208ead18dc0859dc95d41f\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-cast:10.0.1] C:\Users\nickp\.android\build-cache\5be0b52348924030f8972981df9ccff765991863\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\nickp\.android\build-cache\c5f061b3a86dbf122a05ddd9572947e67b45c3e2\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\nickp\.android\build-cache\94bd7311182a3c602f242b0cd9f14e1d8ff53ffc\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.0.0] C:\Users\nickp\.android\build-cache\f860c0bb5a81887b2d072aea199ebe4fe1b549bd\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] C:\Users\nickp\.android\build-cache\12a46341c0472808fe527c84887a351f0db2492f\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.0.0] C:\Users\nickp\.android\build-cache\c7933a3137edab29f9a317a45e9b9382597b923d\output\AndroidManifest.xml:21:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] C:\Users\nickp\.android\build-cache\6c289ec402975253bcded0bb494dc8603fc2c296\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-config:10.0.1] C:\Users\nickp\.android\build-cache\4b09280c9d4222d3cc82e30fe1615b86f7ba62de\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-awareness:10.0.1] C:\Users\nickp\.android\build-cache\5a12e8d643f23bf7749cf5618112f1eff471f074\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-crash:10.0.1] C:\Users\nickp\.android\build-cache\acc1e197eb86db8c0223edc0548bed04e0342c81\output\AndroidManifest.xml:20:5-42
+MERGED from [com.google.firebase:firebase-auth:10.0.1] C:\Users\nickp\.android\build-cache\47f57354ef7a623be2b067f06a811eb74a04a353\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-database:10.0.1] C:\Users\nickp\.android\build-cache\8ebc102b435044a281ae17cd8cfb7bcc8855d9a2\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:10.0.1] C:\Users\nickp\.android\build-cache\f6848a133e4ef34f646afcbaf007be1674f0832c\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\nickp\.android\build-cache\dc7067ab681944946cff32124fdde6bb6e218fd6\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-storage:10.0.1] C:\Users\nickp\.android\build-cache\9dcab11f790323d4a86210f1908c7c19efb41d6d\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-storage-common:10.0.1] C:\Users\nickp\.android\build-cache\49b5e9d0089340763cf63268bc7b01e02e3ef5cb\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-fitness:10.0.1] C:\Users\nickp\.android\build-cache\f9131bf29ce1c129a5dc8fc627d374bb1b03993e\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-games:10.0.1] C:\Users\nickp\.android\build-cache\3147251451b913f1c05551e19b006495885410f6\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-drive:10.0.1] C:\Users\nickp\.android\build-cache\7f5c713f80c3a0b34dfd194d694e8ddf8f6fdb6c\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] C:\Users\nickp\.android\build-cache\268b88ccf88d177fcb845f3be6f834d7d32d6d9c\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Users\nickp\.android\build-cache\b575eca3ada082f4436c3319a16b4f7d20b367dc\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-appindexing:10.0.1] C:\Users\nickp\.android\build-cache\45b30269d2c12d453886daede9c025dc409d7863\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] C:\Users\nickp\.android\build-cache\0cc49f200a056bb265af77fd13539dafeb67d5b7\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-instantapps:10.0.1] C:\Users\nickp\.android\build-cache\2f3505a976cd04fef9ba391289c6c231cdaede03\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-location:10.0.1] C:\Users\nickp\.android\build-cache\b49c5f05e1426c786f742a65828d377d473f64e9\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-nearby:10.0.1] C:\Users\nickp\.android\build-cache\0461284dbdd0db3271a6a0edd1f49b8aa912a6d7\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-panorama:10.0.1] C:\Users\nickp\.android\build-cache\cacda35fe44d1cb63e418afe4e4c674ff0784130\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-places:10.0.1] C:\Users\nickp\.android\build-cache\3d0b59b550735a96cf10578c588d9826f25cf3df\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-plus:10.0.1] C:\Users\nickp\.android\build-cache\e078185297cd4050a2d6d4c0043781a8da261911\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:10.0.1] C:\Users\nickp\.android\build-cache\87c98d852b21a50ff90ae17cc259d194aaf2b8b6\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager:10.0.1] C:\Users\nickp\.android\build-cache\7d003b91d2aae2cd07af29c3e431502514c05e9b\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\nickp\.android\build-cache\6aebc05032f52c3a20c6678159c47fac66abcb51\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\nickp\.android\build-cache\5ff0442c60936394ba9f97cc95a012caf438790d\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\nickp\.android\build-cache\24054bacb761dd1ca80f989c7c947deb79717c94\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nickp\.android\build-cache\34476061d710a40bbb05683ecb5fb7111dcc1c4f\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\nickp\.android\build-cache\741b9e05831ca797b6d03c7b69358462b0fe1338\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.0.1] C:\Users\nickp\.android\build-cache\741ba6a0ebf6ad82d9372ed0a8aff5f2c4c9f8d4\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\nickp\.android\build-cache\b7be9034743cee8d207dbea9d965cdd6b4888bf6\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-vision:10.0.1] C:\Users\nickp\.android\build-cache\c83513fd5ad54e53d9f3214934d8d100b5481dcb\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-wallet:10.0.1] C:\Users\nickp\.android\build-cache\03c596b06c5f556332eeed29c19e001b656c9e70\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-identity:10.0.1] C:\Users\nickp\.android\build-cache\8fdb7b1ff677e6dcc67003ec4b648e8b225dc608\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\nickp\.android\build-cache\3cf57e5cf4bbf4f50f3506572fac7a476ec1cf7e\output\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-wearable:10.0.1] C:\Users\nickp\.android\build-cache\c194af829d1961414aef248808055474f3cfd85c\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\nickp\.android\build-cache\d53b498fabe2f1c0a44c4b4cd716a947021c603d\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\nickp\.android\build-cache\988a5706b46ab37d98f5cd9124d0ced79da8d1b0\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\nickp\.android\build-cache\2fb2ebadba84ab66621cb6626a34767c88304e4e\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\nickp\.android\build-cache\4972e1d916efab7cabedb8c6c631220bc010bea4\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:cardview-v7:24.0.0] C:\Users\nickp\.android\build-cache\befd7fa50a73fb4758240d2c7023f2868eaaf87d\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\nickp\.android\build-cache\511bb482df9f262dc16209ec32498703144f005b\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.0.0] C:\Users\nickp\.android\build-cache\f860c0bb5a81887b2d072aea199ebe4fe1b549bd\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\nickp\Desktop\542\VR_POC\KvU\app\src\main\AndroidManifest.xml:2:1-55:12 reason: com.microsoft.SpeechSDK requested WRITE_EXTERNAL_STORAGE
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\nickp\.android\build-cache\6d6789f0d57dead877a8c0cdccd40c9cfcfaba5d\output\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\nickp\.android\build-cache\6d6789f0d57dead877a8c0cdccd40c9cfcfaba5d\output\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\nickp\.android\build-cache\6d6789f0d57dead877a8c0cdccd40c9cfcfaba5d\output\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\nickp\.android\build-cache\6d6789f0d57dead877a8c0cdccd40c9cfcfaba5d\output\AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\nickp\.android\build-cache\6d6789f0d57dead877a8c0cdccd40c9cfcfaba5d\output\AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\nickp\.android\build-cache\6d6789f0d57dead877a8c0cdccd40c9cfcfaba5d\output\AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\nickp\.android\build-cache\6d6789f0d57dead877a8c0cdccd40c9cfcfaba5d\output\AndroidManifest.xml:26:19-91
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\nickp\.android\build-cache\8bc4afdbcb2abea2776239fd3650a3f70903c5df\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\nickp\.android\build-cache\5ff0442c60936394ba9f97cc95a012caf438790d\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\nickp\.android\build-cache\24054bacb761dd1ca80f989c7c947deb79717c94\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nickp\.android\build-cache\34476061d710a40bbb05683ecb5fb7111dcc1c4f\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\nickp\.android\build-cache\b7be9034743cee8d207dbea9d965cdd6b4888bf6\output\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\nickp\.android\build-cache\8bc4afdbcb2abea2776239fd3650a3f70903c5df\output\AndroidManifest.xml:24:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\nickp\.android\build-cache\561e1ee92ea510cbf4176cb92af4a0df3c76ab35\output\AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\nickp\.android\build-cache\561e1ee92ea510cbf4176cb92af4a0df3c76ab35\output\AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\nickp\.android\build-cache\561e1ee92ea510cbf4176cb92af4a0df3c76ab35\output\AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\nickp\.android\build-cache\561e1ee92ea510cbf4176cb92af4a0df3c76ab35\output\AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\nickp\.android\build-cache\561e1ee92ea510cbf4176cb92af4a0df3c76ab35\output\AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\nickp\.android\build-cache\561e1ee92ea510cbf4176cb92af4a0df3c76ab35\output\AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\nickp\.android\build-cache\561e1ee92ea510cbf4176cb92af4a0df3c76ab35\output\AndroidManifest.xml:22:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\nickp\.android\build-cache\561e1ee92ea510cbf4176cb92af4a0df3c76ab35\output\AndroidManifest.xml:23:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\nickp\.android\build-cache\561e1ee92ea510cbf4176cb92af4a0df3c76ab35\output\AndroidManifest.xml:23:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\nickp\.android\build-cache\2cf3eaab2302e96fc05441df4b2d6a2551fc5d8c\output\AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\nickp\.android\build-cache\2cf3eaab2302e96fc05441df4b2d6a2551fc5d8c\output\AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\nickp\.android\build-cache\2cf3eaab2302e96fc05441df4b2d6a2551fc5d8c\output\AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\nickp\.android\build-cache\2cf3eaab2302e96fc05441df4b2d6a2551fc5d8c\output\AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\nickp\.android\build-cache\2cf3eaab2302e96fc05441df4b2d6a2551fc5d8c\output\AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\nickp\.android\build-cache\2cf3eaab2302e96fc05441df4b2d6a2551fc5d8c\output\AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\nickp\.android\build-cache\2cf3eaab2302e96fc05441df4b2d6a2551fc5d8c\output\AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\nickp\.android\build-cache\2cf3eaab2302e96fc05441df4b2d6a2551fc5d8c\output\AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\nickp\.android\build-cache\2cf3eaab2302e96fc05441df4b2d6a2551fc5d8c\output\AndroidManifest.xml:24:18-63
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\nickp\.android\build-cache\6c1ce277c9b6d20564208ead18dc0859dc95d41f\output\AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\nickp\.android\build-cache\6c1ce277c9b6d20564208ead18dc0859dc95d41f\output\AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\nickp\.android\build-cache\6c1ce277c9b6d20564208ead18dc0859dc95d41f\output\AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\nickp\.android\build-cache\6c1ce277c9b6d20564208ead18dc0859dc95d41f\output\AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\nickp\.android\build-cache\6c1ce277c9b6d20564208ead18dc0859dc95d41f\output\AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\nickp\.android\build-cache\6c1ce277c9b6d20564208ead18dc0859dc95d41f\output\AndroidManifest.xml:7:18-90
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\nickp\.android\build-cache\dc7067ab681944946cff32124fdde6bb6e218fd6\output\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\nickp\.android\build-cache\dc7067ab681944946cff32124fdde6bb6e218fd6\output\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\nickp\.android\build-cache\dc7067ab681944946cff32124fdde6bb6e218fd6\output\AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\nickp\.android\build-cache\dc7067ab681944946cff32124fdde6bb6e218fd6\output\AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\nickp\.android\build-cache\dc7067ab681944946cff32124fdde6bb6e218fd6\output\AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\nickp\.android\build-cache\dc7067ab681944946cff32124fdde6bb6e218fd6\output\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\nickp\.android\build-cache\dc7067ab681944946cff32124fdde6bb6e218fd6\output\AndroidManifest.xml:25:25-75
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Users\nickp\.android\build-cache\b575eca3ada082f4436c3319a16b4f7d20b367dc\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] C:\Users\nickp\.android\build-cache\0cc49f200a056bb265af77fd13539dafeb67d5b7\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nickp\.android\build-cache\34476061d710a40bbb05683ecb5fb7111dcc1c4f\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Users\nickp\.android\build-cache\b575eca3ada082f4436c3319a16b4f7d20b367dc\output\AndroidManifest.xml:20:22-79
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\nickp\.android\build-cache\6aebc05032f52c3a20c6678159c47fac66abcb51\output\AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\nickp\.android\build-cache\6aebc05032f52c3a20c6678159c47fac66abcb51\output\AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\nickp\.android\build-cache\6aebc05032f52c3a20c6678159c47fac66abcb51\output\AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\nickp\.android\build-cache\6aebc05032f52c3a20c6678159c47fac66abcb51\output\AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\nickp\.android\build-cache\6aebc05032f52c3a20c6678159c47fac66abcb51\output\AndroidManifest.xml:25:9-32:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\nickp\.android\build-cache\6aebc05032f52c3a20c6678159c47fac66abcb51\output\AndroidManifest.xml:25:94-118
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\nickp\.android\build-cache\6aebc05032f52c3a20c6678159c47fac66abcb51\output\AndroidManifest.xml:25:19-93
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\nickp\.android\build-cache\6aebc05032f52c3a20c6678159c47fac66abcb51\output\AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\nickp\.android\build-cache\6aebc05032f52c3a20c6678159c47fac66abcb51\output\AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\nickp\.android\build-cache\6aebc05032f52c3a20c6678159c47fac66abcb51\output\AndroidManifest.xml:27:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\nickp\.android\build-cache\6aebc05032f52c3a20c6678159c47fac66abcb51\output\AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\nickp\.android\build-cache\6aebc05032f52c3a20c6678159c47fac66abcb51\output\AndroidManifest.xml:28:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\nickp\.android\build-cache\6aebc05032f52c3a20c6678159c47fac66abcb51\output\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\nickp\.android\build-cache\6aebc05032f52c3a20c6678159c47fac66abcb51\output\AndroidManifest.xml:30:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\nickp\.android\build-cache\5ff0442c60936394ba9f97cc95a012caf438790d\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\nickp\.android\build-cache\24054bacb761dd1ca80f989c7c947deb79717c94\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\nickp\.android\build-cache\5ff0442c60936394ba9f97cc95a012caf438790d\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\nickp\.android\build-cache\5ff0442c60936394ba9f97cc95a012caf438790d\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\nickp\.android\build-cache\5ff0442c60936394ba9f97cc95a012caf438790d\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\nickp\.android\build-cache\5ff0442c60936394ba9f97cc95a012caf438790d\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\nickp\.android\build-cache\5ff0442c60936394ba9f97cc95a012caf438790d\output\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\nickp\.android\build-cache\5ff0442c60936394ba9f97cc95a012caf438790d\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\nickp\.android\build-cache\5ff0442c60936394ba9f97cc95a012caf438790d\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\nickp\.android\build-cache\5ff0442c60936394ba9f97cc95a012caf438790d\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\nickp\.android\build-cache\5ff0442c60936394ba9f97cc95a012caf438790d\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\nickp\.android\build-cache\5ff0442c60936394ba9f97cc95a012caf438790d\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\nickp\.android\build-cache\5ff0442c60936394ba9f97cc95a012caf438790d\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\nickp\.android\build-cache\24054bacb761dd1ca80f989c7c947deb79717c94\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\nickp\.android\build-cache\5ff0442c60936394ba9f97cc95a012caf438790d\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\nickp\.android\build-cache\5ff0442c60936394ba9f97cc95a012caf438790d\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\nickp\.android\build-cache\5ff0442c60936394ba9f97cc95a012caf438790d\output\AndroidManifest.xml:32:16-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nickp\.android\build-cache\34476061d710a40bbb05683ecb5fb7111dcc1c4f\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nickp\.android\build-cache\34476061d710a40bbb05683ecb5fb7111dcc1c4f\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nickp\.android\build-cache\34476061d710a40bbb05683ecb5fb7111dcc1c4f\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nickp\.android\build-cache\34476061d710a40bbb05683ecb5fb7111dcc1c4f\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nickp\.android\build-cache\34476061d710a40bbb05683ecb5fb7111dcc1c4f\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nickp\.android\build-cache\34476061d710a40bbb05683ecb5fb7111dcc1c4f\output\AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nickp\.android\build-cache\34476061d710a40bbb05683ecb5fb7111dcc1c4f\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nickp\.android\build-cache\34476061d710a40bbb05683ecb5fb7111dcc1c4f\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nickp\.android\build-cache\34476061d710a40bbb05683ecb5fb7111dcc1c4f\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nickp\.android\build-cache\34476061d710a40bbb05683ecb5fb7111dcc1c4f\output\AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nickp\.android\build-cache\34476061d710a40bbb05683ecb5fb7111dcc1c4f\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nickp\.android\build-cache\34476061d710a40bbb05683ecb5fb7111dcc1c4f\output\AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nickp\.android\build-cache\34476061d710a40bbb05683ecb5fb7111dcc1c4f\output\AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nickp\.android\build-cache\34476061d710a40bbb05683ecb5fb7111dcc1c4f\output\AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nickp\.android\build-cache\34476061d710a40bbb05683ecb5fb7111dcc1c4f\output\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nickp\.android\build-cache\34476061d710a40bbb05683ecb5fb7111dcc1c4f\output\AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nickp\.android\build-cache\34476061d710a40bbb05683ecb5fb7111dcc1c4f\output\AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nickp\.android\build-cache\34476061d710a40bbb05683ecb5fb7111dcc1c4f\output\AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nickp\.android\build-cache\34476061d710a40bbb05683ecb5fb7111dcc1c4f\output\AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nickp\.android\build-cache\34476061d710a40bbb05683ecb5fb7111dcc1c4f\output\AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nickp\.android\build-cache\34476061d710a40bbb05683ecb5fb7111dcc1c4f\output\AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nickp\.android\build-cache\34476061d710a40bbb05683ecb5fb7111dcc1c4f\output\AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nickp\.android\build-cache\34476061d710a40bbb05683ecb5fb7111dcc1c4f\output\AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nickp\.android\build-cache\34476061d710a40bbb05683ecb5fb7111dcc1c4f\output\AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nickp\.android\build-cache\34476061d710a40bbb05683ecb5fb7111dcc1c4f\output\AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\nickp\.android\build-cache\34476061d710a40bbb05683ecb5fb7111dcc1c4f\output\AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\nickp\.android\build-cache\741b9e05831ca797b6d03c7b69358462b0fe1338\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\nickp\.android\build-cache\741b9e05831ca797b6d03c7b69358462b0fe1338\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\nickp\.android\build-cache\741b9e05831ca797b6d03c7b69358462b0fe1338\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\nickp\.android\build-cache\741b9e05831ca797b6d03c7b69358462b0fe1338\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\nickp\.android\build-cache\741b9e05831ca797b6d03c7b69358462b0fe1338\output\AndroidManifest.xml:6:79-143
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\nickp\.android\build-cache\3cf57e5cf4bbf4f50f3506572fac7a476ec1cf7e\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\nickp\.android\build-cache\3cf57e5cf4bbf4f50f3506572fac7a476ec1cf7e\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\nickp\.android\build-cache\3cf57e5cf4bbf4f50f3506572fac7a476ec1cf7e\output\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\nickp\.android\build-cache\d53b498fabe2f1c0a44c4b4cd716a947021c603d\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\nickp\.android\build-cache\d53b498fabe2f1c0a44c4b4cd716a947021c603d\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\nickp\.android\build-cache\d53b498fabe2f1c0a44c4b4cd716a947021c603d\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\nickp\.android\build-cache\d53b498fabe2f1c0a44c4b4cd716a947021c603d\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\nickp\.android\build-cache\2fb2ebadba84ab66621cb6626a34767c88304e4e\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\nickp\.android\build-cache\2fb2ebadba84ab66621cb6626a34767c88304e4e\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\nickp\.android\build-cache\2fb2ebadba84ab66621cb6626a34767c88304e4e\output\AndroidManifest.xml:20:20-65

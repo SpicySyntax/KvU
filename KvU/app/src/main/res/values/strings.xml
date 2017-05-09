@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">KvU</string>
+    <string name="first_time">To explore say, Go to \"Place\".</string>
+    <string name="invalid_command">Did not recognize command, try again.</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_explore">ExploreActivity</string>
+    <string name="title_activity_video_view">VideoViewActivity</string>
+    <string name="title_activity_panorama_view">PanoramaViewActivity</string>
+    <string name="primaryKey">a336803520114f8eabd1ca46945fac5f</string>
+    <string name="add_subscription_key_tip_title">Subscription Key is Needed</string>
+    <string name="add_subscription_key_tip">Please put your subscription key to source file \"app/res/values/strings.xml\" to enable Face API calls.</string>
+    <string name="google_maps_key">AIzaSyBLCVNZ6mXe20rsOxyKeR9An8GLbDn7Zr</string>
+    <!--
+    Enter an optional authentication Uri such as:
+    https://westus.api.cognitive.microsoft.com/sts/v1.0/issuetoken
+    -->
+    <string name="authenticationUri"></string>
+
+    <string name="luisAppID">bf0c923f-ff38-4841-8140-5b1927667962</string>
+    <string name="luisSubscriptionID">d686fb9b94d84f5a845c6c4e55a3c49a</string>
+    <string name="action_settings">Settings</string>
+</resources>

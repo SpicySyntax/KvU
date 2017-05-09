@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\nickp\\Desktop\\542\\VR_POC\\KvU\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\nickp\\.android\\build-cache\\9ba95fc1f9589f1c5ddb5b9a79c955b4f82571b2\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\nickp\\Desktop\\542\\VR_POC\\KvU\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\nickp\\.android\\build-cache\\9ba95fc1f9589f1c5ddb5b9a79c955b4f82571b2\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\nickp\\Desktop\\542\\VR_POC\\KvU\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\nickp\\.android\\build-cache\\9ba95fc1f9589f1c5ddb5b9a79c955b4f82571b2\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\nickp\\Desktop\\542\\VR_POC\\KvU\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\nickp\\.android\\build-cache\\9ba95fc1f9589f1c5ddb5b9a79c955b4f82571b2\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\nickp\\Desktop\\542\\VR_POC\\KvU\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\nickp\\.android\\build-cache\\9ba95fc1f9589f1c5ddb5b9a79c955b4f82571b2\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\nickp\\Desktop\\542\\VR_POC\\KvU\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\nickp\\.android\\build-cache\\9ba95fc1f9589f1c5ddb5b9a79c955b4f82571b2\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    }
+]
