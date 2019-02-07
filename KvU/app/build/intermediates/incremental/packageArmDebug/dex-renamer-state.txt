@@ -1,7 +1,0 @@
-#Sun Apr 30 16:36:14 CDT 2017
-base.0=C\:\\Users\\nickp\\Desktop\\542\\VR_POC\\KvU\\app\\build\\intermediates\\transforms\\dex\\arm\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c7b16ceda17b901a40d4f26456ca5cbe25563522
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=C\:\\Users\\nickp\\Desktop\\542\\VR_POC\\KvU\\app\\build\\intermediates\\transforms\\dex\\arm\\debug\\folders\\1000\\10000\\instant-run_74dd4b4c97ab7e5d764b028129e6af89e881b3e9\\classes.dex
-base.1=C\:\\Users\\nickp\\Desktop\\542\\VR_POC\\KvU\\app\\build\\intermediates\\transforms\\dex\\arm\\debug\\folders\\1000\\10000\\instant-run_74dd4b4c97ab7e5d764b028129e6af89e881b3e9
-file.0=C\:\\Users\\nickp\\Desktop\\542\\VR_POC\\KvU\\app\\build\\intermediates\\transforms\\dex\\arm\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c7b16ceda17b901a40d4f26456ca5cbe25563522\\classes.dex
