@@ -2,7 +2,7 @@
 
 Interactive virtual tours of the University Kansas campus
 
-## KvU was a Java Android app that allowed a user to navigate KU campus using Virtual Reality and Voice Commands
+## KvU was a Java Android app that allowed a user to navigate KU (University of Kansas) campus using Virtual Reality and Voice Commands
     - Uses a map of stored location points and paths in our SQL database to support user navigation
     - streams 360 degree video from Red5Pro Server to the Google VR panorama widget,
         allowing the user to examine their surroundings around KU.
